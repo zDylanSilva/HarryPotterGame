@@ -1,6 +1,6 @@
 # Harry Potter - Java RPG System
 
-This project is a basic simulation of characters and spells from the Harry Potter universe, developed in Java using Object-Oriented Programming (OOP) principles.
+This project is a basic simulation of characters and spells from the Harry Potter universe, developed in Java using Object-Oriented Programming (OOP) principles while following the Strategy Pattern.
 
 ---
 
